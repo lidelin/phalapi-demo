@@ -1,0 +1,10 @@
+{
+    "require": {
+        "lidelin/phalapi-framework": "^0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "demo/"
+        }
+    }
+}
